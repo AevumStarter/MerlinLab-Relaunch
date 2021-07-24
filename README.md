@@ -3,7 +3,7 @@
 - 🌱 I’m currently relaunching: MerlinLab and do it right.
 - 💞️ I’m looking to collaborate on partnerships and proposals that benefits the project
 - 📫 How to reach me:
-TG: https://t.me/MerlinLab_F or directly dm: @Cfornix
+TG: https://t.me/MerlinLab_F or directly dm: @DevWizard_MerlinLab
 
 <!---
 JohnathanMerlinLabsCEO/JohnathanMerlinLabsCEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
